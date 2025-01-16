@@ -6,6 +6,8 @@ This repository stores my reading notes of books regarding quantitative investme
 
 ## Notes List and Introduction
 
+### Jan 2025
+
 * **[LHP] Strategy Performance Measure**
 
   * mainly introduces approaches to evaluate a strategy.
